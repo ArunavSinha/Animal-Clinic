@@ -126,3 +126,23 @@ table.center {
 .hours th {
     padding: 0.5em 1em;
 }
+
+.form-control, .form-select {
+    margin-top: 10px;
+    height: 50px;
+    border-radius: 10px;
+}
+
+.form-control:focus, .form-select:focus {
+    box-shadow: none;
+    border: 2px solid #039BE5;
+}
+
+.confirm {
+    height: 40px;
+    width: 50%;
+    border-radius: 10px;
+    text-transform: unset; 
+    margin-left: auto; 
+    margin-right: auto;
+}
