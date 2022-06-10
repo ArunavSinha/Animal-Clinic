@@ -117,3 +117,12 @@ table.center {
     opacity:1;
     color: black;
 }
+
+.container-md {
+    text-align: left;
+    padding: 1rem;
+}
+
+.hours th {
+    padding: 0.5em 1em;
+}
